@@ -39,3 +39,14 @@ The application monitors simulated security events, analyzes threat severity, ma
 - Integrate with SIEM platforms
 - Add machine learning threat classification
 - Implement real-time API monitoring
+## Preview
+
+![Threat Detection Dashboard](dashboard-preview.png)
+
+## Future Improvements
+
+- Connect to real security logs
+- Integrate with SIEM platforms
+- Add machine learning-based anomaly detection
+- Include real-time network monitoring
+- Add automated incident response actions
